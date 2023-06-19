@@ -3,7 +3,7 @@ This can be used to upload rom files to the D007 handheld
 # How to use
 just put game roms in to the roms folder then run the run.bat file then it uploads it
 
-# How it works
+# How to do it
 1. Take the ROM file and place it in the corresponding folder on the SD card for that specific console.
 2. Copy the name of the ROM file.
 3. Locate the CSV file in the GUI folder of the game console's folder.
