@@ -1,6 +1,6 @@
 # D007RomUploader
 
-This tool allows you to upload ROM files to the D007 handheld console.
+This tool allows you to upload ROM files to the Szdiier D007 handheld console.
 
 ## How to Use
 
